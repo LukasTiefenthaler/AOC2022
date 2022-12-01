@@ -3,7 +3,7 @@ import os
 from Days import *
 
 
-current_day = Day2
+current_day = Day1
 
 input_file = "Input/" + os.path.basename(current_day.__file__.split('.')[0]) + ".txt"
 
